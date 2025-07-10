@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vladyslav</h1>
-<h3 align="center">I'm an aspiring Python developer with problem solving skills and good google skills, stress-resistant and ready for any challenges. I really like learning new things and I love programming ❤️</h3>
+<h3 align="center">I'm an aspiring Python developer with problem solving skills and ready for any challenges. I really like learning new things and I love programming ❤️</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
