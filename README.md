@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vladyslav</h1>
-<h3 align="center">I'm an aspiring Python developer with problem solving skills and ready for any challenges. I really like learning new things and I love programming ❤️</h3>
+<h3 align="center">I'm a self-driven developer who enjoys solving real-world problems, writing clean, maintainable code, and continuously learning new tools and technologies. I'm ready to contribute to team-based projects, take ownership of tasks, and build practical, production-ready solutions.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
